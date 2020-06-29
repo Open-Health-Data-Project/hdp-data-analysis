@@ -9,7 +9,7 @@ assignees: ''
 
 #### Version
 
-(use `opoca version` to determine your version)
+(use `version` to determine your version)
 
 #### Description
 
